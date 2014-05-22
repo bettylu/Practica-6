@@ -3,7 +3,9 @@ using MySql.Data.MySqlClient;
 
 namespace Practica_6
 {
-	
+	/// <summary>
+	/// Description of MySQL.
+	/// </summary>
 	public class MySQL
 	{
 		public MySqlConnection myConnection;

@@ -3,7 +3,6 @@ using MySql.Data.MySqlClient;
 
 namespace Practica_6
 {
-//holaaa
 	
 	public class Profesor:MySQL
 	{
