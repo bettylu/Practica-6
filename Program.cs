@@ -3,6 +3,7 @@ using MySql.Data.MySqlClient;
 
 namespace Practica_6
 {
+// programa
 	class Program
 	{
 		public static void Main(string[] args)
